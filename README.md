@@ -4,17 +4,17 @@ CryptoWallet Interface is a user-friendly web app for Ethereum-based wallet inte
 ## Screenshots
 
 ### Screenshot 1
-![Screenshot 1 Description](images/transact_1.png)
+![Screenshot 1 Description](Images/transact_1.png)
 
 ### Screenshot 2
 
-![Screenshot 2 Description](images/hash_1.png)
+![Screenshot 2 Description](Images/hash_1.png)
 
 ### Screenshot 3
-![Screenshot 2 Description](images/transact_2.png)
+![Screenshot 2 Description](Images/transact_2.png)
 
 ### Screenshot 4
-![Screenshot 2 Description](images/hash_2.png)
+![Screenshot 2 Description](Images/hash_2.png)
 
 (Note: Replace "screenshot1.png" and "screenshot2.png" with the actual filenames of your screenshots if they are different.)
 
